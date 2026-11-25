@@ -25,6 +25,7 @@ Why this line, judged against the judge's brief, in order:
    lessons-learned file, and it really is neatly organized while the
    agent keeps making the same mistakes. No generic robot joke fits
    this sentence.
+Angle in one line: the agent's only real skill is filing its failures neatly.
 
 How v3 differs from our v1: v1 ("most confident exactly when most
 wrong ... deleted production") leans on the crowded confidence/wrong
